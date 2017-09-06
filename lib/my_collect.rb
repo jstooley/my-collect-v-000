@@ -1,5 +1,5 @@
 def my_collect(array)
-  1 = 0
+  i = 0
   mod_array = []
   while i < array.length
     mod_array = yield(array[i])
