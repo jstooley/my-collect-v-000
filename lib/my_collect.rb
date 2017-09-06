@@ -1,4 +1,4 @@
-def collection (array)
+def my_collect(array)
   1 = 0
   mod_array = []
   while i < array.length
